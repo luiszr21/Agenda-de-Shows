@@ -1,0 +1,43 @@
+{
+  "shows": [
+    {
+      "id": "1",
+      "estilo": "RAP",
+      "duracao": "120",
+      "local": "São Paulo",
+      "descricao": "Venha ver o show",
+      "artista": "BK",
+      "cartaz": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJwzEk7onpOQdyh-bhKRwWoq786XKNKOsag&s",
+      "nomes": [
+        "João",
+        "Maria"
+      ],
+      "comentarios": [
+        "Ótimo show!",
+        "Gostei muito!"
+      ],
+      "notas": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "be98",
+      "artista": "djavan",
+      "estilo": "MPB",
+      "duracao": "50",
+      "local": "Pelotas",
+      "descricao": "Venha ver",
+      "cartaz": "https://djavan.com.br/content/uploads/2024/05/feed-tim-music.jpeg",
+      "nomes": [
+        "luis"
+      ],
+      "comentarios": [
+        "muito bomm"
+      ],
+      "notas": [
+        4
+      ]
+    }
+  ]
+}
